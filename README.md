@@ -11,7 +11,7 @@
 
 <p align="left">
 
-<a href="https://linkedin.com/in/aslan-ferhat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aslan-ferhat" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aslanferhat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aslan-ferhat" height="30" width="40" /></a>
 
 <a href="https://instagram.com/ferhataslan027" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ferhataslan027" height="30" width="40" /></a>
 
