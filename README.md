@@ -1,10 +1,11 @@
-<h1 align="center">Hi ğŸ‘‹, I'm Ferhat</h1>
+
+<h1 align="center">Hi 👋, I'm Ferhat</h1>
 
 <h3 align="center">A passionate Jr.software developer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ferhat-aslan&label=Profile%20views&color=0e75b6&style=flat" alt="ferhat-aslan" /> </p>
 
-- ğŸ“« How to reach me **aslanferhat16@gmail.com**
+- 📫 How to reach me **aslanferhat16@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 
@@ -25,5 +26,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ferhat-aslan&show_icons=true&locale=en&layout=compact" alt="ferhat-aslan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ferhat-aslan&show_icons=true&locale=en" alt="ferhat-aslan" /></p>
+
 
 
