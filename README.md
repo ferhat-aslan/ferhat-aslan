@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Jr.software developer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ferhat-aslan&label=Profile%20views&color=0e75b6&style=flat" alt="ferhat-aslan" /> </p>
-
+<p>Merhaba</p>
 - 📫 How to reach me **aslanferhat16@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
