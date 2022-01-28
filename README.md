@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ferhat-aslan&label=Profile%20views&color=0e75b6&style=flat" alt="ferhat-aslan" /> </p>
 <p>I specially work on Flutter/Dart.I can use Provider, Getx, Bloc, Sqflite,Http, Dio, REST Api.</p>
-<p>You can review some of my Flutter Projects. I am open to job opportunities.Also I know Webflow.</p>
+<p>You can review some of my Flutter Projects. Nowadays, I learn Javascript, React.Js, Node.js and Java I am open to job opportunities.Also I know Webflow.</p>
 - 📫 How to reach me **aslanferhat16@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
