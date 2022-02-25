@@ -1,11 +1,13 @@
 
 <h1 align="center">Hi 👋, I'm Ferhat</h1>
 
-<h3 align="center">A passionate Jr.Frontend developer based in Turkey</h3>
+<h3 align="center">A passionate Jr.Frontend developer based in Turkey.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ferhat-aslan&label=Profile%20views&color=0e75b6&style=flat" alt="ferhat-aslan" /> </p>
-<p>I specially work on Javascript, React.Js, Node.js, Angular and Flutter/Dart.</p>
-<p>You can review some of my  Projects. Nowadays.Also I know somewhat Webflow.</p>
+<img align='right' src="./image.jpg" width="350" />
+<p>I have the ability to build responsive web design and mobile apps(Flutter).</p>
+<p>Proficient with CSS, HTML, Dart, and JS Frameworks, plus React.js, Angular, Node.js, Express.js, MongoDB, 
+ Firebase, Flutter, Git, Webflow, Figma, Xd, Uplabs.</p>
 - 📫 How to reach me **aslanferhat16@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
