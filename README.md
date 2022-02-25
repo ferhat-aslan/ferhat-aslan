@@ -8,6 +8,7 @@
 <p>I have the ability to build responsive web design and mobile apps(Flutter).</p>
 <p>Proficient with CSS, HTML, Dart, and JS Frameworks, plus React.js, Angular, Node.js, Express.js, MongoDB, 
  Firebase, Flutter, Git, Webflow, Figma, Xd, Uplabs.</p>
+ <p>I like cycling and climbing.</p>
 - 📫 How to reach me **aslanferhat16@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
