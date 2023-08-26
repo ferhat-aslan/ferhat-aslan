@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Ferhat</h1>
 
-<h3 align="center">A passionate Jr.Frontend developer based in Berlin</h3>
+<h3 align="center">A passionate Software developer based in Berlin</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ferhat-aslan&label=Profile%20views&color=0e75b6&style=flat" alt="ferhat-aslan" /> </p>
 <img align='right' src="https://media.giphy.com/media/CuKEZdZ3V01gI/giphy.gif" width="300" />
