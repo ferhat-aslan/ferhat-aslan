@@ -5,10 +5,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ferhat-aslan&label=Profile%20views&color=0e75b6&style=flat" alt="ferhat-aslan" /> </p>
 <img align='right' src="https://media.giphy.com/media/CuKEZdZ3V01gI/giphy.gif" width="300" />
-<p>I have the ability to build responsive web design and mobile apps(Flutter).</p>
+<p>I have the ability to build responsive web apps.</p>
 <p>I am working at Ollang as Frontend Developer(Angular).</p>
 <p>Proficient with CSS, HTML, Dart, and JS Frameworks, plus React.js, Angular, Node.js, Express.js, MongoDB, 
- Firebase, Flutter, Git, Webflow, Figma, Xd, Uplabs.</p>
+ Firebase, Java, Git, Webflow, Figma, Xd, Uplabs.</p>
  <p>I like cycling and climbing.</p>
 - 📫 How to reach me **aslanferhat16@gmail.com**
 
